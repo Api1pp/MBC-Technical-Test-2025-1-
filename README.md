@@ -118,8 +118,10 @@ Source Code backend masih dijalankan secara lokal. Serta terdapat beberapa kenda
 
 ## Penutup
 
+Proyek ini disusun oleh Afif Alim Mufid sebagai bagian dari Technical Test MBC 2025 yang dilaksanakan untuk merekrut asisten - asisten riset Laboratorium MBC 2025. Dokumentasi, struktur folder, serta alur kerja aplikasi telah diupayakan sebaik mungkin agar mudah dipahami. Meski masih terdapat keterbatasan sistem, saya yakin dengan pembekalan pengetahuan yang lebih maksimal proyek ini akan siap dikembangkan ke tahap selanjutnya.
 Terima kasih kepada MBC Laboratory atas kesempatan mengerjakan technical test ini. Proyek ini telah memberikan pengalaman berharga dalam:
 
 - Pengembangan fitur keamanan (HTTPS, form validation)
 - Integrasi frontend-backend
 - Deployment modern dengan Vercel
+
